@@ -2,8 +2,8 @@ from setuptools import find_packages
 from setuptools import setup
 
 packages=[
-"numpy==latest",
-"pyyaml==latest"
+"numpy",
+"pyyaml"
 ]
 
 setup(name="{{cookiecutter.directory_name}}",

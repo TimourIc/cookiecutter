@@ -9,8 +9,13 @@ illustrative picture:
 
 
 ## Setup
+Clone repository:
 
-Create and activate:
+```python
+git clone ...
+````
+
+Create venv and activate:
  
 ```python
 python -m venv venv
