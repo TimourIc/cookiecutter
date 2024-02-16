@@ -1,0 +1,17 @@
+#package structure
+
+data/*
+logs/*
+!logs/.gitkeep
+!data/.gitkeep
+results/models/*
+!results/models/.gitkeep
+__pycache__
+
+
+
+#virtual environments
+venv/*
+
+#package metadata
+*.egg-info/
